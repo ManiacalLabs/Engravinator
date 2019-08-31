@@ -2,6 +2,8 @@
 
 The Engravinator is an Open Hardware laser engraver platform, designed to be robust and easy to build. It uses a combination of aluminum extrusions, commodity parts easily sourced from the 3D printer world, and 3D printed parts.
 
+Unlike most laser engravers, however, it is designed to be brought to the work piece, not the other way around. It's compact and lightweight frame allows it to easily be rested, or even clamped, onto nearly any item you want to engrave.
+
 Its existence is two-fold: To be both a fully functional laser engraver platform as designed *and* to be a highly flexible reference platform for other open designs.
 
 # Mk1 Specs
