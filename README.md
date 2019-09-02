@@ -6,6 +6,10 @@ Unlike most laser engravers, however, it is designed to be brought to the work p
 
 Its existence is two-fold: To be both a fully functional laser engraver platform as designed *and* to be a highly flexible reference platform for other open designs.
 
+# Mandatory Safety & Legal Warning
+
+**Lasers are dangerous!** Seriously, we cannot stress enough that any laser, even low power lasers, if used improperly, can cause severe damage or injury. Use common sense and always use proper safety equipment.
+
 # Mk1 Specs
 
 - 130mm x 130mm working area
