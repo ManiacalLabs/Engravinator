@@ -6,10 +6,6 @@ Unlike most laser engravers, however, it is designed to be brought to the work p
 
 Its existence is two-fold: To be both a fully functional laser engraver platform as designed *and* to be a highly flexible reference platform for other open designs.
 
-# Mandatory Safety & Legal Warning
-
-**Lasers are dangerous!** Seriously, we cannot stress enough that any laser, even low power lasers, if used improperly, can cause severe damage or injury. Use common sense and always use proper safety equipment.
-
 # Mk1 Specs
 
 - 130mm x 130mm working area
@@ -21,4 +17,19 @@ Its existence is two-fold: To be both a fully functional laser engraver platform
 - 8mm linear rods and bearings on both axis
 - Rigid 2020 aluminum extrusion frame
 - Optional (but recommended!) full enclosure for maximum eye safety
+
+
+# Design & License
+
+As with all things from Maniacal Labs, the Engravinator is open hardware and is licensed under the [CERN Open Hardware License](/LICENSE).
+
+You can find a complete [Fusion 360 archive](/Mk1/Engravinator.f3z) which contains the full design and all design history.
+
+The [Fabrication](/Mk1/Fabrication/) directory contains a full set of exported files for everything you need to build the machine. For 3D Printed components we provide both `STL` files for printing and `STEP` files in case you would like to make modifications to a single model outside of the complete design, or in a different CAD tool.
+
+
+# Mandatory Safety & Legal Warning
+
+**Lasers are dangerous!** Seriously, we cannot stress enough that any laser, even low power lasers, if used improperly, can cause severe damage or injury. Use common sense and always use proper safety equipment.
+
 
