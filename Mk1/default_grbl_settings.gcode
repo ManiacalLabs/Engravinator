@@ -27,7 +27,7 @@ $20=1
 ;Hard limits, boolean;
 $21=1
 ;Homing dir invert, mask;
-$23=3
+$23=1
 ;Homing feed, mm/min;
 $24=100.000
 ;Homing seek, mm/min;
@@ -47,11 +47,11 @@ $100=100.000
 ;Y steps/mm;
 $101=100.000
 ;X Max rate;
-$110=8000.000
+$110=9000.000
 ;Y Max rate;
 $111=5000.000
 ;X Acceleration;
-$120=1000.000
+$120=1500.000
 ;Y Acceleration;
 $121=1000.000
 ;X Max travel, mm;

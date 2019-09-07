@@ -18,7 +18,6 @@ Its existence is two-fold: To be both a fully functional laser engraver platform
 - Rigid 2020 aluminum extrusion frame
 - Optional (but recommended!) full enclosure for maximum eye safety
 
-
 # Design & License
 
 As with all things from Maniacal Labs, the Engravinator is open hardware and is licensed under the [CERN Open Hardware License](/LICENSE).
