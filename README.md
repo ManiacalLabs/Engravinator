@@ -6,6 +6,8 @@ Unlike most laser engravers, however, it is designed to be brought to the work p
 
 Its existence is two-fold: To be both a fully functional laser engraver platform as designed *and* to be a highly flexible reference platform for other open designs.
 
+For full details go to https://Engravinator.com
+
 # Mk1 Specs
 
 - 130mm x 130mm working area
