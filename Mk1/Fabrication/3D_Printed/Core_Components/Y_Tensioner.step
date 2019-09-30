@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 'G:/dev/Engravinator/Mk1/Fabrication/3D_Printed/Core_Components/Y_Tens
 ioner.step',
-/* time_stamp */ '2019-09-12T16:15:44-04:00',
+/* time_stamp */ '2019-09-30T17:33:42-04:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18',
@@ -3628,16 +3628,16 @@ SOLID_ANGLE_UNIT()
 #3418=PRODUCT_DEFINITION_SHAPE('',$,#3421);
 #3419=SHAPE_REPRESENTATION('',(#2036),#3411);
 #3420=PRODUCT_DEFINITION_CONTEXT('part definition',#3425,'design');
-#3421=PRODUCT_DEFINITION('Y_Tensioner','Y_Tensioner v3',#3422,#3420);
+#3421=PRODUCT_DEFINITION('Y_Tensioner','Y_Tensioner v4',#3422,#3420);
 #3422=PRODUCT_DEFINITION_FORMATION('',$,#3427);
-#3423=PRODUCT_RELATED_PRODUCT_CATEGORY('Y_Tensioner v3',
-'Y_Tensioner v3',(#3427));
+#3423=PRODUCT_RELATED_PRODUCT_CATEGORY('Y_Tensioner v4',
+'Y_Tensioner v4',(#3427));
 #3424=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#3425);
 #3425=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #3426=PRODUCT_CONTEXT('part definition',#3425,'mechanical');
-#3427=PRODUCT('Y_Tensioner','Y_Tensioner v3',$,(#3426));
+#3427=PRODUCT('Y_Tensioner','Y_Tensioner v4',$,(#3426));
 #3428=PRESENTATION_STYLE_ASSIGNMENT((#3430));
 #3429=PRESENTATION_STYLE_ASSIGNMENT((#3431));
 #3430=SURFACE_STYLE_USAGE(.BOTH.,#3432);
