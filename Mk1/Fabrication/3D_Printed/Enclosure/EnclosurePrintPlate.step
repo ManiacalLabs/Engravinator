@@ -12,11 +12,11 @@ FILE_NAME(
 /* name */ 
 'G:/dev/Engravinator/Mk1/Fabrication/3D_Printed/Enclosure/EnclosurePri
 ntPlate.step',
-/* time_stamp */ '2019-09-30T18:35:54-04:00',
+/* time_stamp */ '2019-11-08T17:40:54-05:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18',
-/* originating_system */ 'Autodesk Translation Framework v8.6.0.1094',
+/* originating_system */ 'Autodesk Translation Framework v8.9.1.1155',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -151,54 +151,54 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 #62=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#44,#4611);
 #63=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#45,#4612);
 #64=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#46,#4613);
-#65=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x2_Handles v7:1','x2_Handles v7:1',
-'x2_Handles v7:1',#4620,#4621,'x2_Handles v7:1');
-#66=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x2_Handles v7:2','x2_Handles v7:2',
-'x2_Handles v7:2',#4620,#4621,'x2_Handles v7:2');
-#67=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_Feet v6:1','x4_Feet v6:1',
-'x4_Feet v6:1',#4620,#4622,'x4_Feet v6:1');
-#68=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_Feet v6:2','x4_Feet v6:2',
-'x4_Feet v6:2',#4620,#4622,'x4_Feet v6:2');
-#69=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_Feet v6:3','x4_Feet v6:3',
-'x4_Feet v6:3',#4620,#4622,'x4_Feet v6:3');
-#70=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_Feet v6:4','x4_Feet v6:4',
-'x4_Feet v6:4',#4620,#4622,'x4_Feet v6:4');
-#71=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_ExtensionBracket v6:1',
-'x4_ExtensionBracket v6:1','x4_ExtensionBracket v6:1',#4620,#4623,
-'x4_ExtensionBracket v6:1');
-#72=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_ExtensionBracket v6:2',
-'x4_ExtensionBracket v6:2','x4_ExtensionBracket v6:2',#4620,#4623,
-'x4_ExtensionBracket v6:2');
-#73=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_ExtensionBracket v6:3',
-'x4_ExtensionBracket v6:3','x4_ExtensionBracket v6:3',#4620,#4623,
-'x4_ExtensionBracket v6:3');
-#74=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_ExtensionBracket v6:4',
-'x4_ExtensionBracket v6:4','x4_ExtensionBracket v6:4',#4620,#4623,
-'x4_ExtensionBracket v6:4');
-#75=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v10:1',
-'x8_PanelClips v10:1','x8_PanelClips v10:1',#4620,#4624,
-'x8_PanelClips v10:1');
-#76=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v10:2',
-'x8_PanelClips v10:2','x8_PanelClips v10:2',#4620,#4624,
-'x8_PanelClips v10:2');
-#77=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v10:3',
-'x8_PanelClips v10:3','x8_PanelClips v10:3',#4620,#4624,
-'x8_PanelClips v10:3');
-#78=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v10:4',
-'x8_PanelClips v10:4','x8_PanelClips v10:4',#4620,#4624,
-'x8_PanelClips v10:4');
-#79=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v10:5',
-'x8_PanelClips v10:5','x8_PanelClips v10:5',#4620,#4624,
-'x8_PanelClips v10:5');
-#80=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v10:6',
-'x8_PanelClips v10:6','x8_PanelClips v10:6',#4620,#4624,
-'x8_PanelClips v10:6');
-#81=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v10:7',
-'x8_PanelClips v10:7','x8_PanelClips v10:7',#4620,#4624,
-'x8_PanelClips v10:7');
-#82=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v10:8',
-'x8_PanelClips v10:8','x8_PanelClips v10:8',#4620,#4624,
-'x8_PanelClips v10:8');
+#65=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x2_Handles v8:1','x2_Handles v8:1',
+'x2_Handles v8:1',#4620,#4621,'x2_Handles v8:1');
+#66=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x2_Handles v8:2','x2_Handles v8:2',
+'x2_Handles v8:2',#4620,#4621,'x2_Handles v8:2');
+#67=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_Feet v7:1','x4_Feet v7:1',
+'x4_Feet v7:1',#4620,#4622,'x4_Feet v7:1');
+#68=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_Feet v7:2','x4_Feet v7:2',
+'x4_Feet v7:2',#4620,#4622,'x4_Feet v7:2');
+#69=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_Feet v7:3','x4_Feet v7:3',
+'x4_Feet v7:3',#4620,#4622,'x4_Feet v7:3');
+#70=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_Feet v7:4','x4_Feet v7:4',
+'x4_Feet v7:4',#4620,#4622,'x4_Feet v7:4');
+#71=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_ExtensionBracket v7:1',
+'x4_ExtensionBracket v7:1','x4_ExtensionBracket v7:1',#4620,#4623,
+'x4_ExtensionBracket v7:1');
+#72=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_ExtensionBracket v7:2',
+'x4_ExtensionBracket v7:2','x4_ExtensionBracket v7:2',#4620,#4623,
+'x4_ExtensionBracket v7:2');
+#73=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_ExtensionBracket v7:3',
+'x4_ExtensionBracket v7:3','x4_ExtensionBracket v7:3',#4620,#4623,
+'x4_ExtensionBracket v7:3');
+#74=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x4_ExtensionBracket v7:4',
+'x4_ExtensionBracket v7:4','x4_ExtensionBracket v7:4',#4620,#4623,
+'x4_ExtensionBracket v7:4');
+#75=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v11:1',
+'x8_PanelClips v11:1','x8_PanelClips v11:1',#4620,#4624,
+'x8_PanelClips v11:1');
+#76=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v11:2',
+'x8_PanelClips v11:2','x8_PanelClips v11:2',#4620,#4624,
+'x8_PanelClips v11:2');
+#77=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v11:3',
+'x8_PanelClips v11:3','x8_PanelClips v11:3',#4620,#4624,
+'x8_PanelClips v11:3');
+#78=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v11:4',
+'x8_PanelClips v11:4','x8_PanelClips v11:4',#4620,#4624,
+'x8_PanelClips v11:4');
+#79=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v11:5',
+'x8_PanelClips v11:5','x8_PanelClips v11:5',#4620,#4624,
+'x8_PanelClips v11:5');
+#80=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v11:6',
+'x8_PanelClips v11:6','x8_PanelClips v11:6',#4620,#4624,
+'x8_PanelClips v11:6');
+#81=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v11:7',
+'x8_PanelClips v11:7','x8_PanelClips v11:7',#4620,#4624,
+'x8_PanelClips v11:7');
+#82=NEXT_ASSEMBLY_USAGE_OCCURRENCE('x8_PanelClips v11:8',
+'x8_PanelClips v11:8','x8_PanelClips v11:8',#4620,#4624,
+'x8_PanelClips v11:8');
 #83=ELLIPSE('',#2935,4.00000000000001,2.);
 #84=ELLIPSE('',#2936,4.00000000000001,2.);
 #85=ELLIPSE('',#2939,4.00000000000001,2.);
@@ -4969,37 +4969,37 @@ SOLID_ANGLE_UNIT()
 #4617=SHAPE_REPRESENTATION('',(#2844),#4579);
 #4618=SHAPE_REPRESENTATION('',(#2903),#4580);
 #4619=PRODUCT_DEFINITION_CONTEXT('part definition',#4636,'design');
-#4620=PRODUCT_DEFINITION('EnclosurePrintPlate','EnclosurePrintPlate v5',
+#4620=PRODUCT_DEFINITION('EnclosurePrintPlate','EnclosurePrintPlate v6',
 #4625,#4619);
-#4621=PRODUCT_DEFINITION('x2_Handles','x2_Handles v7',#4626,#4619);
-#4622=PRODUCT_DEFINITION('x4_Feet','x4_Feet v6',#4627,#4619);
-#4623=PRODUCT_DEFINITION('x4_ExtensionBracket','x4_ExtensionBracket v6',
+#4621=PRODUCT_DEFINITION('x2_Handles','x2_Handles v8',#4626,#4619);
+#4622=PRODUCT_DEFINITION('x4_Feet','x4_Feet v7',#4627,#4619);
+#4623=PRODUCT_DEFINITION('x4_ExtensionBracket','x4_ExtensionBracket v7',
 #4628,#4619);
-#4624=PRODUCT_DEFINITION('x8_PanelClips','x8_PanelClips v10',#4629,#4619);
+#4624=PRODUCT_DEFINITION('x8_PanelClips','x8_PanelClips v11',#4629,#4619);
 #4625=PRODUCT_DEFINITION_FORMATION('',$,#4638);
 #4626=PRODUCT_DEFINITION_FORMATION('',$,#4639);
 #4627=PRODUCT_DEFINITION_FORMATION('',$,#4640);
 #4628=PRODUCT_DEFINITION_FORMATION('',$,#4641);
 #4629=PRODUCT_DEFINITION_FORMATION('',$,#4642);
-#4630=PRODUCT_RELATED_PRODUCT_CATEGORY('EnclosurePrintPlate v5',
-'EnclosurePrintPlate v5',(#4638));
-#4631=PRODUCT_RELATED_PRODUCT_CATEGORY('x2_Handles v7','x2_Handles v7',
+#4630=PRODUCT_RELATED_PRODUCT_CATEGORY('EnclosurePrintPlate v6',
+'EnclosurePrintPlate v6',(#4638));
+#4631=PRODUCT_RELATED_PRODUCT_CATEGORY('x2_Handles v8','x2_Handles v8',
 (#4639));
-#4632=PRODUCT_RELATED_PRODUCT_CATEGORY('x4_Feet v6','x4_Feet v6',(#4640));
-#4633=PRODUCT_RELATED_PRODUCT_CATEGORY('x4_ExtensionBracket v6',
-'x4_ExtensionBracket v6',(#4641));
-#4634=PRODUCT_RELATED_PRODUCT_CATEGORY('x8_PanelClips v10',
-'x8_PanelClips v10',(#4642));
+#4632=PRODUCT_RELATED_PRODUCT_CATEGORY('x4_Feet v7','x4_Feet v7',(#4640));
+#4633=PRODUCT_RELATED_PRODUCT_CATEGORY('x4_ExtensionBracket v7',
+'x4_ExtensionBracket v7',(#4641));
+#4634=PRODUCT_RELATED_PRODUCT_CATEGORY('x8_PanelClips v11',
+'x8_PanelClips v11',(#4642));
 #4635=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#4636);
 #4636=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #4637=PRODUCT_CONTEXT('part definition',#4636,'mechanical');
-#4638=PRODUCT('EnclosurePrintPlate','EnclosurePrintPlate v5',$,(#4637));
-#4639=PRODUCT('x2_Handles','x2_Handles v7',$,(#4637));
-#4640=PRODUCT('x4_Feet','x4_Feet v6',$,(#4637));
-#4641=PRODUCT('x4_ExtensionBracket','x4_ExtensionBracket v6',$,(#4637));
-#4642=PRODUCT('x8_PanelClips','x8_PanelClips v10',$,(#4637));
+#4638=PRODUCT('EnclosurePrintPlate','EnclosurePrintPlate v6',$,(#4637));
+#4639=PRODUCT('x2_Handles','x2_Handles v8',$,(#4637));
+#4640=PRODUCT('x4_Feet','x4_Feet v7',$,(#4637));
+#4641=PRODUCT('x4_ExtensionBracket','x4_ExtensionBracket v7',$,(#4637));
+#4642=PRODUCT('x8_PanelClips','x8_PanelClips v11',$,(#4637));
 #4643=PRESENTATION_STYLE_ASSIGNMENT((#4646));
 #4644=PRESENTATION_STYLE_ASSIGNMENT((#4647));
 #4645=PRESENTATION_STYLE_ASSIGNMENT((#4648));
