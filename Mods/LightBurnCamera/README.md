@@ -27,6 +27,6 @@ This one is pretty simple:
 - Connect the USB cable to the camera and hold it down using the 3 other sets of holes in the top panel and some zip ties.
 - Mount the top panel to the frame using the M5x10 bolts and HNTP5-5 extrusion spring nuts. The top panel MUST be firmly mounted and not be allowed to shift at all.
 
-That's it, not it just needs to be setup with LightBurn. All of the LightBurn camera docs can be found here: https://github.com/LightBurnSoftware/Documentation/blob/master/Using_a_Camera.md
+That's it, now it just needs to be setup with LightBurn. All of the LightBurn camera docs can be found here: https://github.com/LightBurnSoftware/Documentation/blob/master/Using_a_Camera.md
 
 One thing of note is that the lens calibration step requires a calibration pattern to be printed out and placed various places inside the machine. But it was never intended for a machine this small. We recommend printing out the calibration pattern at 25% size and then taping it to a small piece of stiff cardboard, roughly the size of a business card.
